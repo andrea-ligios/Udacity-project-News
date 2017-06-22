@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <!-- defaultValue = relevance
+         entries are the order choices: Relevance and Most Recent
+         entryValues are the keywords entered in the query: relevance and newest
+         key is the order by key - that is the key entered in the query before the entryValues
+         title = title of settings menu for preferences -->
+
+    <ListPreference
+        android:defaultValue="@string/settings_order_default"
+        android:entries="@array/settings_order_by_labels"
+        android:entryValues="@array/settings_order_by_values"
+        android:key="@string/settings_order_by_key"
+        android:title="@string/settings_order_label" />
+
+</PreferenceScreen>

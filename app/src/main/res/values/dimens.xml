@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text size for the News header in the list item -->
+    <dimen name="headerTextSize">14sp</dimen>
+
+    <!-- Text size for the News summary in the list item -->
+    <dimen name="summaryTextSize">12sp</dimen>
+
+    <!-- Text size for the News details in the list item -->
+    <dimen name="detailsTextSize">10sp</dimen>
+
+    <!-- Standard left margin 16dp -->
+    <dimen name="marginLeft">16dp</dimen>
+
+    <dimen name="margin_bottom_8">8dp</dimen>
+    <dimen name="radius_elevation">2dp</dimen>
+
+    <!-- Standard start margin 16dp -->
+    <dimen name="marginStart">16dp</dimen>
+
+    <!-- Standard left padding 16dp -->
+    <dimen name="paddingLeft">16dp</dimen>
+
+    <!-- Standard right padding 16dp -->
+    <dimen name="paddingRight">16dp</dimen>
+
+    <!-- Standard top padding 16dp -->
+    <dimen name="paddingTop">16dp</dimen>
+
+    <!-- Standard end padding 16dp -->
+    <dimen name="paddingEnd">16dp</dimen>
+
+    <!-- Standard start padding 16dp -->
+    <dimen name="paddingStart">16dp</dimen>
+
+
+</resources>
